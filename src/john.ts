@@ -1,1 +1,1 @@
-const map: Iterable<[any, any]> = [];
+const map: Iterable<[unknown, unknown]> = [];
