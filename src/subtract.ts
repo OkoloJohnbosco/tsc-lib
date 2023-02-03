@@ -5,6 +5,6 @@
  * @returns  number
  * @beta
  */
-export function subtract(a: number, b: number) {
+export function subtract(a: number, b = 0) {
   return a - b;
 }
